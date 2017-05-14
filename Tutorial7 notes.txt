@@ -1,0 +1,34 @@
+mkdir 210Tut
+
+cd(changeto directly) 210Tut
+
+xxx cd ..(change)
+
+pwd(where I currently is at current file system)
+
+cp(copy) part8.c 210Tur/ (file to folder)
+
+mv(move)
+
+mv(rename sth.) part8.c part7.c
+
+rm(remove) path of file
+
+rm ~r
+
+ls (to see all files)
+
+rm ~~help (provide help of all commands can use)
+
+clear (clear the screen)
+
+nano (tytexteditor to open the file) filename(or leave blank to create a new file. If file doesn't exist it will just creat a new file for u)
+Ctrl + O (save file
+
+ty-terminal
+uy-graphical
+
+touch (create a file
+
+http://afsweb.cs.auckland.ac.nz/
+everything in unixhome folder
